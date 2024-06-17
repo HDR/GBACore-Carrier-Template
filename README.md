@@ -1,0 +1,1 @@
+# GBACore Carrier Board Template
