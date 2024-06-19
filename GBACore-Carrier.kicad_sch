@@ -3714,7 +3714,7 @@
 	(symbol
 		(lib_name "BM24-40DS_2-0.35V_53__1")
 		(lib_id "BM24-40:BM24-40DS_2-0.35V_53_")
-		(at 72.39 123.19 90)
+		(at 72.39 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3723,25 +3723,25 @@
 		(fields_autoplaced yes)
 		(uuid "d4848b5b-d180-4556-98fd-fa9063e46513")
 		(property "Reference" "J1"
-			(at 74.5841 60.6255 90)
+			(at 75.4065 60.6255 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "BM24-40DS_2-0.35V_53_"
-			(at 74.5841 63.0498 90)
+			(at 75.4065 63.0498 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Connector_Hirose:Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical"
-			(at 162.23 63.5 0)
+			(at -17.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3751,7 +3751,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.hirose.com/en/product/document?clcode=CL0677-2010-0-53&productname=BM24-40DS%2f2-0.35V(53)&series=BM24&documenttype=2DDrawing&lang=en&documentid=0001166555"
-			(at 262.23 63.5 0)
+			(at -117.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3761,7 +3761,7 @@
 			)
 		)
 		(property "Description" "CONN SOCKET 40POS SMD GOLD"
-			(at 72.39 123.19 0)
+			(at 72.39 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3770,7 +3770,7 @@
 			)
 		)
 		(property "Height" "0.9"
-			(at 462.23 63.5 0)
+			(at -317.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3780,7 +3780,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Hirose"
-			(at 562.23 63.5 0)
+			(at -417.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3790,7 +3790,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BM24-40DS/2-0.35V(53)"
-			(at 662.23 63.5 0)
+			(at -517.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3800,7 +3800,7 @@
 			)
 		)
 		(property "Mouser Part Number" "798-BM2440DS20.35V53"
-			(at 762.23 63.5 0)
+			(at -617.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3810,7 +3810,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/BM24-40DS-2-0.35V53?qs=c8NFF48pVsBxiWngIa8Cog%3D%3D"
-			(at 862.23 63.5 0)
+			(at -717.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3820,7 +3820,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 962.23 63.5 0)
+			(at -817.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3830,7 +3830,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 1062.23 63.5 0)
+			(at -917.45 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
