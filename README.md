@@ -10,6 +10,6 @@
 
 ## Notes:
 - Carrier board must supply 5V to the module, the module has onboard voltage regulators for 3.3v and 2.5v
-- Crystal can be left unpopulated if an external clock signal is required (GBAHD etc)
+- An external clock signal can be provided if the crystal on the module is left unpopulated (useful for GBAHD for example)
 
 ![image](https://github.com/HDR/GBACore-Carrier-Template/assets/20230450/e64441ff-080d-46de-b105-9f849f8040de)
