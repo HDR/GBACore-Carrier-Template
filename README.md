@@ -1,5 +1,7 @@
 # GBACore Carrier Board Template
 
+Template for [GBACore](https://github.com/HDR/GBACore) carrier boards
+
 ## Usage:
 
 1. Click New Project from Template under File
